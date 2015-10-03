@@ -1,5 +1,5 @@
-# mattcsloan
-personal site - converting to angular app
+# MEAN Boilerplate
+a barebones app built on the MEAN stack to use as a base for new apps
 
 ##setup
 npm install
