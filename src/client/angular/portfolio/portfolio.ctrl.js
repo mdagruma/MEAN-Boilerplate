@@ -9,6 +9,6 @@ angular.module('PortfolioCtrl', []).controller('PortfolioController', function($
 
   $scope.$on('$routeChangeSuccess', function (event, data) {
     $scope.errormessage = '';
-    $scope.pageTitle = data.title + ' | Matt Sloan | UI Designer &amp; Full-Stack Developer';
+    $scope.pageTitle = data.title + ' | MEAN Boilerplate by Matt Sloan';
   });
 });

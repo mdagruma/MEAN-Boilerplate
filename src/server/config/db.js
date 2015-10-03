@@ -1,3 +1,3 @@
 module.exports = {
-    url : 'mongodb://localhost/mattcsloan'
+    url : 'mongodb://localhost/mean-boilerplate'
 }

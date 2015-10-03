@@ -1,5 +1,5 @@
 {
-  "name": "mattcsloan",
+  "name": "mean-boilerplate",
   "version": "1.0.0",
   "dependencies": {
     "angular": "latest",
